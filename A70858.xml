@@ -1,0 +1,517 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Christos dikaiosynē, or, Jesus Christ given of God the Father for our justification explained, confirmed, and applyed (very briefly) in one sermon to the satisfaction of some judicious hearers, for whose sake chiefly and at whose earnest request, it is made publick.</title>
+            <author>Pichard, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 61 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70858</idno>
+            <idno type="STC">Wing P3525</idno>
+            <idno type="STC">ESTC R14899</idno>
+            <idno type="EEBO-CITATION">13143531</idno>
+            <idno type="OCLC">ocm 13143531</idno>
+            <idno type="VID">98020</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70858)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98020)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 396:21 or 1099:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Christos dikaiosynē, or, Jesus Christ given of God the Father for our justification explained, confirmed, and applyed (very briefly) in one sermon to the satisfaction of some judicious hearers, for whose sake chiefly and at whose earnest request, it is made publick.</title>
+                  <author>Pichard, Thomas.</author>
+                  <author>Pritchard, Thomas, M.A.</author>
+               </titleStmt>
+               <extent>[2], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Passenger ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First two words of title transliterated from Greek.</note>
+                  <note>Running title: Christ our justification.</note>
+                  <note>Erroneously attributed by Wing to Thomas Pritchard.</note>
+                  <note>Copy found at reel 396:21 bound with: Christos angasmos, or, Christ our justification / Tho. Pichard; and as a separate at reel 1099:5.</note>
+                  <note>Marginal notes.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Justification --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98020:1"/>
+            <pb facs="tcp:98020:1"/>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> OR, JESUS CHRIST Given of God the Father FOR OUR Juſtification.</p>
+            <p>Explained, Confirmed, and Applyed (very brief<g ref="char:EOLhyphen"/>ly) in one Sermon to the Satisfaction of ſome judicious Hearers, for whoſe ſake chiefly, and at whoſe earneſt Requeſt, it is made Publick.</p>
+            <q>
+               <bibl>
+                  <hi>Jeremy 23.6.</hi>
+               </bibl>
+               <p>And this is His Name, whereby he ſhall be called THE LORD OUR RIGHTE<g ref="char:EOLhyphen"/>OUSNESS.</p>
+               <bibl>
+                  <hi>2 Cor. 5.21.</hi>
+               </bibl>
+               <p>For he <hi>(that is, God the Father)</hi> hath made him <hi>(that is, Jeſus Chriſt)</hi> to be ſin for us <hi>(that is, a ſacrifice for ſin)</hi> that we might be made the righ<g ref="char:EOLhyphen"/>teouſneſs of God in him.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Thomas Paſſenger,</hi> at the Sign of the Bible on <hi>London-Bridge.</hi> 1667.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:98020:2"/>
+            <pb facs="tcp:98020:2"/>
+            <head>
+               <q>
+                  <bibl>
+                     <hi>1 Cor. 1.30.</hi>
+                  </bibl>
+                  <p>But of him are ye in Chriſt Jeſus, who of God is made unto us Wiſdome, and Righteouſneſſe, and Sanctification, and Redemption.</p>
+                  <p>—And Righteouſneſſe.—</p>
+               </q>
+            </head>
+            <p>AT the Requeſt of ſome ſerious Friends, I have Adventured to make this Diſ<g ref="char:EOLhyphen"/>courſe publick, which otherwiſe (for ought I know) had never ſeen the light. If any Il<g ref="char:EOLhyphen"/>lumination, Satisfaction, Confirmation, Con<g ref="char:EOLhyphen"/>ſolation, or any ſpiritual Good any way ſhall accrew to them that read it: I ſhall, and will rejoice, Bleſſe, and praiſe the Father of Lights for it.</p>
+            <p>This Argument of Juſtification is as ſub<g ref="char:EOLhyphen"/>ſtantial, neceſſary, comfortable,<note place="margin">Ac primum quidem de juſtificati<g ref="char:EOLhyphen"/>one pecca<g ref="char:EOLhyphen"/>toris co<g ref="char:EOLhyphen"/>rum Deo: qui locus in Theologiâ facile primarius, nobiſque maxime ſalutaris est: quo obſcurato, adulterato, vel everſo, fieri nequit, ut puritas doctrinae in aliis locis retineatur, aut vera Eccleſia Conſiſtat. <hi>Synop. Pur. Theol. P. 434.</hi>
+               </note> and ſweet a Doctrine, as any in the whole circuit of Divi<g ref="char:EOLhyphen"/>nity; for, <hi>whom he hath juſtified, them he hath
+<pb n="2" facs="tcp:98020:3"/>
+alſo glorified,</hi> Rom. 8.30. that is, they are as ſure and certain of Heaven,<note place="margin">Chriſtus factus eſt nobis ſapi<g ref="char:EOLhyphen"/>entia, ju<g ref="char:EOLhyphen"/>ſtitia, ſan<g ref="char:EOLhyphen"/>ctificatio, &amp; Redemp<g ref="char:EOLunhyphen"/>tio, hoc eſt, ſapi<g ref="char:EOLhyphen"/>entes, nos &amp; juſtos, &amp; ſan<g ref="char:EOLhyphen"/>ctos, &amp; liberos ef<g ref="char:EOLhyphen"/>fecit. <hi>Theophy<g ref="char:EOLhyphen"/>lact.</hi>
+               </note> as though they were already in it; Juſtification being the next ſtep, the next immediate link in that Golden Chain to Glorification.</p>
+            <p>
+               <hi>Who of God is made unto us Righteouſneſſe,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, righteouſneſs in the Abſtract, that is, (ſaith <hi>Theophylact</hi>), who hath made us righ<g ref="char:EOLhyphen"/>teous: <hi>who is made unto us righteouſnes,</hi> &amp;c. He is made to us (ſaith <hi>Pareus</hi>) not by Cre<g ref="char:EOLhyphen"/>ation, but by Ordination: for Chriſt is not created or made as to his divine Eſſence, as Hereticks deprave this Scripture: but he is ordained, and beſtowed upon us to confer theſe benefits; he is therefore ſaid <hi>to be made to us,</hi> according to thoſe expreſſions, <hi>Iſa.</hi> 9.6. <hi>To us a Childe is born, to us a Son is given;</hi> And <hi>Luke</hi> 2, <hi>To you is born a Saviour,</hi> that is for our good.</p>
+            <p>
+               <hi>He is made of God to us,</hi> &amp;c. that is, (ſaith<note n="*" place="margin">Factus est nobis, non crea<g ref="char:EOLhyphen"/>tione, ſed ordinatio<g ref="char:EOLhyphen"/>ne neque enim Chri<g ref="char:EOLhyphen"/>ſtus crea<g ref="char:EOLhyphen"/>tus aut factus eſt, quoad Eſ<g ref="char:EOLhyphen"/>ſentiam divinam, ut haeretici depravant ſcripturam hanc: ſed ordinatus, &amp; donatus nobis, ad haec bona conferenda, ideo di<g ref="char:EOLhyphen"/>ſcitur factus nobis: ſicut <hi>Iſaiah 9.6.</hi> puer natus est nobis, <hi>Luke 2.</hi> vobis natus eſt ſervator, id eſt, noſtro bono. <hi>Pareus in loc.</hi>
+               </note> 
+               <hi>Beza</hi>) who is given to us of God, that we might obtain all wiſdome, righteouſ<g ref="char:EOLhyphen"/>neſs, holineſs, <hi>&amp;c.</hi> in him, and by him. All theſe interpretations, are ſignificant and pro<g ref="char:EOLhyphen"/>per enough, but the laſt I beſt approve of, as the moſt genuine and conſonant to the ſcope of the Text, and to the ſenſe of the Apoſtle: only by the way note thus much, that by <hi>righ<g ref="char:EOLhyphen"/>teouſneſs</hi>
+               <note n="*" place="margin">Factus eſt nobis ſapientia a Deo, <hi>&amp;c.</hi> id eſt, qui datus eſt nobis a Deo, ut in ipſo omnem ſapientiam Conſequeremur, &amp;c. idem de juſtitiâ, &amp; ſanctifica<g ref="char:EOLhyphen"/>tione statuendum eſt. <hi>Beza in loc.</hi>
+               </note>
+               <pb n="3" facs="tcp:98020:3"/>
+here, is, and muſt be meant the righ<g ref="char:EOLhyphen"/>teouſneſs of juſtification; for the Apoſtle im<g ref="char:EOLhyphen"/>mediatly annexeth to <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, im<g ref="char:EOLhyphen"/>porting the Righteouſneſs of Sanctification, which is the very next word. My obſervation ſhall be this: <hi>Jeſus Chriſt was given of God to be our Righteouſneſs,</hi> (or for our juſtification.)</p>
+            <p>In the proſecution of this precious and weighty Doctrine. I ſhall endeavour,
+<list>
+                  <item>1. To prove the Point.</item>
+                  <item>2. To open the meaning of the word <hi>Juſtifie.</hi>
+                  </item>
+                  <item>3. To ſhew what the juſtification of a ſinner before God, is.</item>
+                  <item>4. What are the eſſential parts of our juſtification.</item>
+                  <item>5. The ſeveral Cauſes of our juſtifica<g ref="char:EOLhyphen"/>tion.</item>
+                  <item>6. The Fruits and Conſequences of our juſtification.</item>
+                  <item>7. And laſtly, Cloſe all with a brief Ap<g ref="char:EOLhyphen"/>plication for proof.</item>
+               </list>
+            </p>
+            <p n="1">1. Jeſus Chriſt was decreed, deſigned, or<g ref="char:EOLhyphen"/>dained, and determined to be his peoples righ<g ref="char:EOLhyphen"/>teouſneſs, propitiation, and redemption: the juſtification and redemption of a ſinner is ac<g ref="char:EOLhyphen"/>cording to Gods purpoſe, and grace, given us in Chriſt Jeſus before the world began, 2 <hi>Tim.</hi> 1.9. which according to the immutability of his Counſel was in the fulneſs of time ac<g ref="char:EOLhyphen"/>compliſht. That in <hi>Daniel</hi> is very emphati<g ref="char:EOLhyphen"/>cal, <hi>Dan.</hi> 9:34. <hi>To bring in everlaſting righte<g ref="char:EOLhyphen"/>ouſneſs;</hi> 'tis in the original, a <hi>Righteouſneſs of Eternities:</hi> So in <hi>Heb.</hi> 9.12. it it ſaid, that
+<pb n="4" facs="tcp:98020:4"/>
+               <hi>Chriſt obtained eternal Redemption for us.</hi> Our Redemption,<note place="margin">
+                  <hi>Eternal</hi> a parte an<g ref="char:EOLhyphen"/>te, &amp; a parte poſt.</note> or Righteouſneſs may be cal<g ref="char:EOLhyphen"/>led <hi>Eternal,</hi> upon a double accompt:</p>
+            <p n="1">1. <hi>Eternal,</hi> in reference to the eternal De<g ref="char:EOLhyphen"/>cree of God, and ſo a Righteouſneſs from E<g ref="char:EOLhyphen"/>ternity.</p>
+            <p n="2">2. <hi>External,</hi> in reference to the everlaſting duration of the vertue of it; the great and glo<g ref="char:EOLhyphen"/>rious Benefits that accrue to Believers by ver<g ref="char:EOLhyphen"/>tue of this Righteouſneſs, extend their ver<g ref="char:EOLhyphen"/>tue, continue their influence throughout the endleſs duration of Eternity. 'Tis a Righte<g ref="char:EOLhyphen"/>ouſneſs from all Eternity, and a Righteouſ<g ref="char:EOLhyphen"/>neſs unto all Eternity, <hi>Rom.</hi> 3.25. <hi>Whom God hath ſet forth</hi> (from everlaſting, or fore-ap<g ref="char:EOLhyphen"/>pointed) <hi>to be a propitiation through faith in his blood,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. quem pro<g ref="char:EOLhyphen"/>poſuit De<g ref="char:EOLhyphen"/>us propiti<g ref="char:EOLhyphen"/>ationem. <hi>Montan.</hi>
+               </note> 
+               <hi>to declare his righteouſneſs,</hi> &amp;c. Chriſt was <hi>A. Lamb ſlain from the beginning of the world,</hi> Rev. 13.8. <hi>(viz.)</hi> in the eternal purpoſe and Decree of God.</p>
+            <p n="2">2. Conſider Chriſts glorious Name. This is his Name wherewith he ſhall be called, <hi>the Lord our Righteouſneſs, Jer.</hi> 23.6. This is like his other Name <hi>Jeſus,</hi> the ſame in ſubſtance with this, <hi>Matth.</hi> 1.21. by the Oracle of an Angel, his Name muſt be called <hi>Jeſus, for he ſhall ſave his people from their ſins,</hi> (i. e.) from the power, guilt, and condemnation of ſin.</p>
+            <p n="3">3. 'Tis the office of Jeſus Chriſt as our High Prieſt, to be our Righteouſneſs. Jeſus Chriſt was <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: he was our Redeemer, the price of our Redemption, a Counter-price; our Redemption and revoca<g ref="char:EOLhyphen"/>tion
+<pb n="5" facs="tcp:98020:4"/>
+from Captivity, he was both the propi<g ref="char:EOLhyphen"/>tiatory and propitiation; he was Prieſt, he was Altar, he was Sacrifice, he was All in All,<note place="margin">Jam fru<g ref="char:EOLhyphen"/>ctum oſten<g ref="char:EOLhyphen"/>dit quem ex Chriſti ſacrificio conſequu<g ref="char:EOLhyphen"/>ti ſumus, nimirum ut juſti coram Deo eſſemus, qui naturâ impuri, &amp; ſumus. <hi>Marlorat. in 2 Cor. 5.21.</hi>
+               </note> to <hi>make us the righteouſneſs of God in him,</hi> 2 Cor. 5. <hi>ult.</hi> that is, that we who are impure ſin<g ref="char:EOLhyphen"/>ners by nature, through the ſacrifice of Chriſt, might become righteous before God.</p>
+            <p>He is our Advocate,<note place="margin">1 Joh. 2.2.</note> and propitiation Jeſus Chriſt the Righteous; yea, he is our <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, our propitiatory, or placatory,<note place="margin">Rom. 3.25.</note> alluding to the Mercy-ſeat.<note place="margin">1 Cor. 5.7.</note> He is our Paſſeover ſa<g ref="char:EOLhyphen"/>crificed for us; he is the Lamb of God ſlain for us, that the wrath of God might paſs o<g ref="char:EOLhyphen"/>ver,<note place="margin">1 Pet. 1.18.</note> and paſs away for ever from us, and not fall down upon our heads: if your hearts and Conſciences are ſprinkled with the blood of Chriſt, as the Door-poſts of the Children of <hi>Iſrael</hi> were with the blood of the Paſchal-lamb,<note place="margin">Exod. 12.7</note> the wrath of God will for ever paſs by you, and not paſs upon you. Thus Jeſus Chriſt is a merciful and faithful High-prieſt, <hi>Heb.</hi> 2.17. merciful to us in miſery, pittying us in our guilt and blood, faithful to God, and to us alſo in the faithful diſcharge of his Prieſtly Office for us; in being our Price, our Ran<g ref="char:EOLhyphen"/>ſom, in diſcharging our Bond, in pacifying the Fathers wrath, in ſatisfying divine Ju<g ref="char:EOLhyphen"/>ſtice, in finiſhing Tranſgreſſion, in making an end of ſin, in bringing in everlaſting Righteouſneſſe, and ſo in bringing us to God.<note place="margin">1 Pet. 3.18.</note> Now as he is our merciful and faithful High
+<pb n="6" facs="tcp:98020:5"/>
+Prieſt:<note place="margin">Juſtitia, hoc eſt, ju<g ref="char:EOLhyphen"/>ſtificator noſter, do<g ref="char:EOLhyphen"/>nans nos vera juſtitiâ coram Deo per fidem. Ad ſacerdotale munus Chriſti hoc perti<g ref="char:EOLhyphen"/>net. <hi>Pareus in 1 Cor. 1.30.</hi>
+               </note> ſo he is our Righteouſneſſe, (1) our Juſtifyer, endowing us with a perfect Righ<g ref="char:EOLhyphen"/>teouſneſs before God through faith; this be<g ref="char:EOLhyphen"/>longs to the Prieſtly Office of Chriſt.</p>
+            <p>Jeſus Chriſt is the Author, or the procu<g ref="char:EOLhyphen"/>ring cauſe of our juſtification, as he is the Author of our eternal Salvation.<note place="margin">Heb. 5.9.</note> And this he doth two wayes:</p>
+            <p n="1">1. By making an Atonement for us on Earth.</p>
+            <p n="2">2. By making interceſſion for us in Hea<g ref="char:EOLhyphen"/>ven: He hath made reconciliation for us by his blood upon the Croſſe, <hi>Rom.</hi> 5.1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. and he doth continue to make interceſſion for us by the prevalent and loud cryes of the ſame blood in Heaven, <hi>Heb.</hi> 12.24. He is gone up to Heaven to appear in the preſence of God for us;<note place="margin">Heb. 9.24.</note> juſt as <hi>Aaron</hi> (a type of Chriſt) <hi>Exod.</hi> 28.12, 29. and 30. <hi>verſes,</hi> was to bear the name of the children of <hi>Iſrael</hi> (a figure of all the Elect of God) engraven in precious ſtones upon his Shoulders, and upon his Heart, when he went into the holy Place, for a memorial before the Lord continually. So our Lord Chriſt is entred into the Heavens, with red and glorious Garments, to appear in the pre<g ref="char:EOLhyphen"/>ſence of God for us: there is not the leaſt Be<g ref="char:EOLhyphen"/>liever but his name is (as it were) engraven upon the Shoulders, Breaſt-plate, and Heart of Chriſt. Of all cryes the cryes of blood are the ſtrongeſt, the loudeſt, whether for, or a<g ref="char:EOLhyphen"/>gainſt
+<pb n="7" facs="tcp:98020:5"/>
+a guilty perſon. <hi>Abels</hi> blood cryed a<g ref="char:EOLhyphen"/>loud to God for vengeance,<note place="margin">Gen. 4.10.</note> but this blood of ſprinkling ſpeaketh better things than that of <hi>Abels:</hi> it pleads, ſues, preſſes hard for a diſ<g ref="char:EOLhyphen"/>charge from all thy ſins, and enemies: it cryes aloud for mercy, peace and pardon. Lord (ſaith Chriſt) here is my price, and my pur<g ref="char:EOLhyphen"/>chaſe, my Redemption, and my redeemed Ones; here is my Righteouſneſs, and here are the perſons juſtified by it: whatever charge or guilt lyes upon them, here are the ſhoulders that have ſuſtained the weight of thy wrath, which was their due, upon theſe ſhoulders, and in this heart, thou mayeſt be<g ref="char:EOLhyphen"/>hold all their names engraven, acquit and ab<g ref="char:EOLhyphen"/>ſolve th m for my ſake; Father, I will that they be righteous by my Righteouſneſs, and glorious with my Glory; My tears, my ſtripes, my wounds, my groans, my anguiſh, my Blood, the tortures of my Body, the torments of my Soul do all pray, and plead prevai<g ref="char:EOLhyphen"/>lingly, that all believing ſinners be juſtified, and ſaved. Thus Chriſt appears in Heaven, with red Garments, with Garments rolled in blood, and with the <hi>whites</hi> of peace, par<g ref="char:EOLhyphen"/>don, juſtification, and abſolution upon the red: with all the names of his juſtified, ſan<g ref="char:EOLhyphen"/>ctified ones engraven upon his ſhoulders, and upon his heart before the Lord continually, to preſent his everlaſting Righteouſneſs to the Father for us, to preſent our perſons as righteous, and ſpotleſs, enwrap'd in that glo<g ref="char:EOLhyphen"/>rious Robe of Righteouſneſs, and to impro<g ref="char:EOLhyphen"/>priate and apply his everlaſting Righteouſneſs. to us.</p>
+            <p>
+               <pb n="8" facs="tcp:98020:6"/>Thus I have proved, that Chriſt is our Righ<g ref="char:EOLhyphen"/>teouſneſs.</p>
+            <p n="2">
+               <note place="margin">Vox juſti<g ref="char:EOLhyphen"/>ficandi <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> &amp; inde juſtificati<g ref="char:EOLhyphen"/>onis, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, pro<g ref="char:EOLhyphen"/>priè, &amp; fere ſem<g ref="char:EOLhyphen"/>per forinſeca, &amp; forenſis actio eſt, judicis, &amp; judicii, ſcilicet in rei abſolutione, condemnationi oppoſita. <hi>Synop.</hi> Pur. <hi>Theol. p. 434.</hi> Justificare abſolvere à eſt, morte, non condemnare. <hi>Syntag. Polan. p. 455.</hi>
+               </note>2. We come in the next place to open the meaning of the word <hi>(juſtifie.)</hi>
+            </p>
+            <p>Juſtification is a Law-ſtate, and the words <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) are <hi>ver<g ref="char:EOLhyphen"/>ba forenſia,</hi> or judicial, or Court-Terms, ta<g ref="char:EOLhyphen"/>ken from Courts of Juſtice: It imports the abſolution of a guilty perſon, the word <hi>juſti<g ref="char:EOLhyphen"/>fication,</hi> is in holy Writ oppoſed to <hi>condemna<g ref="char:EOLhyphen"/>tion.</hi> To juſtifie, ſaith <hi>Polanus,</hi> is to abſolve from death, not to condemn.</p>
+            <p>Though <hi>juſtificare</hi> ſometimes may note as much as <hi>juſtum facere:</hi> if you reſpect the no<g ref="char:EOLhyphen"/>tation of the Latin word, as <hi>magnificare</hi> im<g ref="char:EOLhyphen"/>porteth to magnifie, or make great; neither is it to be doubted, but that the Lord doth con<g ref="char:EOLhyphen"/>ſtitute, or make thoſe juſt, whom he juſtifi<g ref="char:EOLhyphen"/>eth, they are juſt, both by the imputation of Chriſts Righteouſneſs, which is out of them in Chriſt, as being his perſonal righteouſneſs, and by infuſion of righteouſneſs, as it were by influence into them from Chriſt their Head; to the faithful belongs a two-fold Righteouſ<g ref="char:EOLhyphen"/>neſs, the one of Juſtification, the other of San<g ref="char:EOLhyphen"/>ctification:<note place="margin">
+                  <hi>Reverend</hi> Downam's Treatiſe of Juſtificati<g ref="char:EOLhyphen"/>on. <hi>p. 2, 3.</hi>
+               </note> I ſhall make it evident (ſaith the learned Biſhop <hi>Downame</hi>) that the Hebrew <hi>Hitſdiq,</hi> and the Greek <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is, <hi>verbum fo<g ref="char:EOLhyphen"/>renſe,</hi> a judicial word taken from Courts of juſtice, which being attributed to the Judge is
+<pb n="9" facs="tcp:98020:6"/>
+oppoſed to Condemnation, and ſignifieth, to abſolve,<note place="margin">Justificare eſt justum reputare, juſtum pro<g ref="char:EOLhyphen"/>nunciare.</note> or to give ſentence with the party queſtioned. Thus far he. So that to juſti<g ref="char:EOLhyphen"/>fie both from Scriptures and the writings of the Fathers, is as much as to abſolve, or acquit a believing ſinner from guilt, and condemna<g ref="char:EOLhyphen"/>tion, and to accept him as righteous through the righteouſneſs of Jeſus Chriſt. To juſtifie, is to repute, and pronounce a man juſt or righteous. Juſtification is oppoſed to Con<g ref="char:EOLhyphen"/>demnation, <hi>Rom.</hi> 8.33. <hi>it is God that juſtifies,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> not one con<g ref="char:EOLhyphen"/>demnation to them that are in Chriſt J ſus. Rom. 8.1.</note> i. e. acquits, abſolves, <hi>who ſhall condemn?</hi> ſo the word is taken, <hi>Deut.</hi> 25.1. The Judges are commanded to juſtifie the righteous, and to condemn the wicked: l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>kewiſe, <hi>Prov.</hi> 17.15. he that juſtifies the wicked, and condemns the righteous, they are both an abomination to the Lord. So alſo is this w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rd taken in a Law ſenſe, <hi>Pſalm</hi> 143.2. <hi>Lord enter not into judgement with thy ſervant, for in thy ſight ſhall no man be juſtified.</hi> Rom. 5.16. <hi>Judgment was by one to condemnation, but the free Gift is of many offences to juſtification.</hi> Now the Scrip<g ref="char:EOLhyphen"/>ture ſpeaks of a righteouſneſs of the Cauſe, and of a righteouſneſs of the Perſon.</p>
+            <p n="1">1. Of the Cauſe,<note place="margin">
+                  <hi>1.</hi> Justi<g ref="char:EOLhyphen"/>tia Cauſae.</note> When a man in other reſpects ſinful, may be ſaid in this, or that particular cauſe, or matter to be innocent, or juſt: as in the caſe of <hi>Abimelech,</hi>
+               <note place="margin">Gen. 20.5.</note> touching the matter of <hi>Sarah;</hi> he pleads the integrity of his heart, and the innocency of his hands, <hi>&amp;c.</hi>
+            </p>
+            <p n="2">2. Of the Perſon.<note place="margin">
+                  <hi>2.</hi> Justi<g ref="char:EOLhyphen"/>tia Perſo<g ref="char:EOLhyphen"/>nae.</note> That is the univerſal conformity of the whole man, and of all his actions to the holy Law of God, and this two-fold:
+<list>
+                  <pb n="10" facs="tcp:98020:7"/>
+                  <item>1. Legal.</item>
+                  <item>2. Evangelical.</item>
+               </list>
+            </p>
+            <p n="1">1. Legal, By the Law and the works there<g ref="char:EOLhyphen"/>of,<note place="margin">
+                  <hi>Hac juſti<g ref="char:EOLhyphen"/>ficatione Angeli ſancti fru<g ref="char:EOLhyphen"/>untur.</hi> Polan. Mat. 3.15. Rom. 8.3, 4.</note> hereby the Man Chriſt Jeſus, and none but he on earth, was in a ſtrict ſenſe legally juſt and righteous, he only fulfilled all righ<g ref="char:EOLhyphen"/>teouſneſs, even the righteouſneſs of the whole Law, and the Holy Angels are thus juſti<g ref="char:EOLhyphen"/>fied.</p>
+            <p n="2">2. Evangelical, That (in ſhort) is this: through faith in Chriſts righteouſneſs a belie<g ref="char:EOLhyphen"/>ving ſinner is juſtified before God, <hi>in foro coe<g ref="char:EOLhyphen"/>li,</hi> in the Court of Heaven:<note place="margin">
+                  <hi>Rom. 5.1.</hi> Finis per<g ref="char:EOLhyphen"/>ficiens non interfici<g ref="char:EOLhyphen"/>ens.</note> And Chriſt is the end of the Law for righteouſneſs to every one that believeth, <hi>Rom.</hi> 10.4. we ought directly to go to Chriſt for juſtification, and not to go back to <hi>Moſes; by him all that believe, are ju<g ref="char:EOLhyphen"/>ſtified from all things,</hi>
+               <note place="margin">Acts 13.38, 39.</note> 
+               <hi>from which ye could not be juſtified by the Law of</hi> Moſes; a ſenſe whereof a believer hath more or leſſe, <hi>in foro Conſcientiae,</hi> in his own conſcience: <hi>Rom.</hi> 14.17. <hi>The king<g ref="char:EOLhyphen"/>dome of God is not meat and drink, but righte<g ref="char:EOLhyphen"/>ouſneſs, and peace, and joy in the holy Ghoſt,</hi> Rom. 5. from the 12. to the end, proves at large our ſole and whole juſtification by the righ<g ref="char:EOLhyphen"/>teouſneſs of One, even Jeſus Chriſt. In a word, the Lord accepteth, and reputeth a guilty unworthy ſinner (yet believing) as righteous, by the free imputation of the righ<g ref="char:EOLhyphen"/>teouſneſs of Chriſt unto him.</p>
+            <p>Thus much for the Terms <hi>(Juſtifie)</hi> and <hi>(Juſtification.)</hi>
+            </p>
+            <p n="3">3. We come in the third place to the defi<g ref="char:EOLhyphen"/>nition of <hi>Juſtification.</hi> I am not ignorant, that
+<pb n="11" facs="tcp:98020:7"/>
+the definitions thereof are many, but the moſt clear and comprehenſive I take to be this:
+<q>What is Juſtification?</q>
+            </p>
+            <p>Anſw. <hi>Justification</hi> is a moſt merciful and righteous Action of God as Judge, whereby,<note place="margin">Definition of juſtifi<g ref="char:EOLhyphen"/>cation.</note> imputing the righteouſneſs of Chriſt to a be<g ref="char:EOLhyphen"/>lieving ſinner, he abſolveth him from his ſins, and accepteth of him as righteous in Chriſt, and as an heir of eternal life, to the praiſe and glory of his own mercy and juſtice. All which (at leaſtwiſe for the moſt part) is com<g ref="char:EOLhyphen"/>prehended in, <hi>Rom.</hi> 3.23, 24, 25, 26.</p>
+            <p>I do not intend at this time to proſecute the parts of this Definition at large, but only ſpeak to two things <hi>in tranſitu:</hi>
+            </p>
+            <p n="1">1. The juſtification of a ſinner is an Act of God, as Lord Law-giver, and Judge, <hi>Rom.</hi> 8, 33. <hi>it is God that juſtifieth,</hi> the whole Trinity,<note place="margin">Opera Tri<g ref="char:EOLhyphen"/>nitatis ad extra ſunt indiviſa.</note> Father, Son, and Spirit, <hi>Jam.</hi> 4.12. There is one Law-giver, who is able to ſave and to de<g ref="char:EOLhyphen"/>ſtroy: none but the offended Majeſty can par<g ref="char:EOLhyphen"/>don mans offences; 'Tis the injured Deity that ſaith, <hi>I even, I am he, that blotteth out thy Tranſgreſſions, for mine own ſake, and will not re<g ref="char:EOLhyphen"/>member thy ſins,</hi> Iſa. 43.25. O glorious and gracious Word! Hee that will by no meanes clear the guilty, having received ſatisfaction in his Son, by the imputation of his Sons righ<g ref="char:EOLhyphen"/>teouſneſs juſtifies the ungodly, acquits them from the guilt of ſin,<note place="margin">Rom. 4.5.</note> and accepts them as righ<g ref="char:EOLhyphen"/>teous in his ſight.</p>
+            <p n="2">2. The righteouſneſs of juſtification (<hi>qua<g ref="char:EOLhyphen"/>tenus</hi> juſtification) works not a real inherent change in us, which is done in ſanctification,
+<pb n="12" facs="tcp:98020:8"/>
+but makes a relative change without us, and upon us, as it is a judicial act of God, an act of God as Law-giver and Judge, in oppoſi<g ref="char:EOLhyphen"/>tion to Condemnation. Juſtification makes a relative change or mutation, in reſpect of a mans eſtate or condition: a guilty perſon is pronounced righteous, the ſinful Debtor is diſcharged; an Enemy is now reconciled, a miſerable captive is redeemed, a childe of wrath is made a Son of God, and an un<g ref="char:EOLhyphen"/>worthy worm an heir of Glory. Theſe are relative mutations, though they that are ju<g ref="char:EOLhyphen"/>ſtified, are alſo together ſanctified; in order of Time theſe acts of grace are wrought to<g ref="char:EOLhyphen"/>gether, but in order of Nature juſtification is the Antecedent, and ſanctification is the Con<g ref="char:EOLhyphen"/>ſequent; and mark it, where juſtification changeth a mans Relation (to God, and E<g ref="char:EOLhyphen"/>ternity) there ſanctification changeth a mans diſpoſition, and renews the ſoul with inward holineſs: both are the ſacred effluxes from Chriſts righteouſneſs; the firſt is wrought by the righteouſneſs of Chriſt imputed, the o<g ref="char:EOLhyphen"/>ther by the righteouſneſs of Chriſt imparted; one by Chriſts perſonal righteouſneſs, the o<g ref="char:EOLhyphen"/>ther by way of influence,<note place="margin">
+                  <hi>Chriſt is both</hi> caput eminentiae, &amp; caput influentiae.</note> and infuſion from Chriſt as Head. Wee ought to take great heed leaſt we confound juſtification with ſan<g ref="char:EOLhyphen"/>ctification, as <hi>Bellarmine,</hi> and the Papiſts do.</p>
+            <p n="4">4. In the fourth place, we come to ſhew the eſſential parts of our juſtification, and theſe are two:
+<list>
+                  <item>1. Abſolution from ſin.</item>
+                  <item>2. Acceptation as righteous in Chriſt.</item>
+               </list>
+            </p>
+            <p>
+               <pb n="13" facs="tcp:98020:8"/>Both which, the Lord granteth by the ple<g ref="char:EOLhyphen"/>nary, and perfect ſatisfaction made to his Law and juſtice by Jeſus Chriſt, both our Surety, and Mediatour: by which he ſatisfied the Law in both parts:</p>
+            <p n="1">1. He ſatisfied the Law in reſpect of the penalty, by his Paſſion, or paſſive righteouſ<g ref="char:EOLhyphen"/>neſs, undergoing the Curſe for us, <hi>Gal.</hi> 3.13.</p>
+            <p n="2">2. He ſatisfied the Law in reſpect of the Precept by his perfect active righteouſneſſe, habitual and actual: but neither of theſe can be ſevered any where from the other:<note place="margin">Rom 3.4.</note> And theſe which God hath ſo indiſſolvably joined, let no man put aſſunder, each hath its pro<g ref="char:EOLhyphen"/>per intereſt in, and reſpective contribution toward the ſatisfying the injured honour of Gods Law; for the honour of Gods Law is the equity of both its parts, its Command, and its threatning. Chriſts active righteouſ<g ref="char:EOLhyphen"/>neſs, the obedience of the Great God-man, hath honoured the equity of the firſt, <hi>(viz.)</hi> repaired the honour of Gods Commandments, broken by ſinful man. And his paſſive righ<g ref="char:EOLhyphen"/>teouſneſs in like manner, honours the equity of the Threatning; Chriſt himſelf dies, to juſtifie that the ſinner is worthy of Death; and by offering up himſelf as a ſacrifice on the Croſſe, he proclaims to all the world, that ſin is exceeding ſinful, and that God is ex<g ref="char:EOLhyphen"/>ceeding jealous. Again, Conſider,<note place="margin">See <hi>Walle<g ref="char:EOLhyphen"/>bius</hi> his <hi>Body of Di<g ref="char:EOLhyphen"/>vinity,</hi> with the Notes of Mr. <hi>Roſſe</hi> p. 109.</note> Chriſts active Righteouſneſs was every where paſ<g ref="char:EOLhyphen"/>ſive, (the diſtinction of active and paſſive is needleſs) and his paſſive righteouſneſs every where active.</p>
+            <p n="1">
+               <pb n="14" facs="tcp:98020:9"/>1. His active Righteouſneſſe was every where paſſive, becauſe all of it was done in the form of a Servant:<note place="margin">Chriſts o<g ref="char:EOLhyphen"/>bedience is an ac<g ref="char:EOLhyphen"/>tive Paſ<g ref="char:EOLhyphen"/>ſion, and a paſſive Action. <hi>ibid.</hi>
+               </note> in our nature he obeyed the Law, in his very incarnation he was paſ<g ref="char:EOLhyphen"/>ſive, for therein he ſuffered an e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>clipſe of the glory of his God-head.</p>
+            <p n="2">2. His Paſſive Righteouſneſs was every where active; becauſe what he ſuffered, was not by conſtraint, or againſt his will, it was his own voluntary act and deed, all along he eyed his Fathers Glory, and the good of man<g ref="char:EOLhyphen"/>kind; Ah! take that inſtance, the Greateſt of his ſufferings, his very dying was the pro<g ref="char:EOLhyphen"/>duct, both of the freeneſs of his love, and of the majeſty of his power, <hi>John</hi> 10.17, 18. <hi>Re<g ref="char:EOLhyphen"/>vel.</hi> 1.5. Read thoſe melting Texts, and chew the Cud upon them. But to return. The Law hath two branches:
+<list>
+                  <item>1. The Commination, or the Curſe.</item>
+                  <item>2. The Precept, or Commandment: ſo there are two parts of juſtification.</item>
+               </list>
+            </p>
+            <p n="1">1. Abſolution from the Curſe of the Law, this is done by Chriſts ſufferings: the <hi>Prince of Life</hi> dyed, the <hi>Lord of Glory</hi> became a Curſe for us.</p>
+            <p n="2">2. Acceptation as righteous in Chriſt, this is done by the imputation of Chriſts perfect righ<g ref="char:EOLhyphen"/>teouſneſs to us,<note place="margin">Rom. 8 3, 4. Rom. 5.17, 18.</note> both habitual and actual. Thus Jeſus Chriſt is the end of the Law for righte<g ref="char:EOLhyphen"/>ouſneſs to every one that believeth, for to them that believe in him he hath fulfilled all righte<g ref="char:EOLhyphen"/>ouſneſs: but I muſt confeſs, by reaſon of the moſt ſtrict Connexion between theſe two, <hi>(viz.)</hi> imputation of righteouſneſs and re<g ref="char:EOLhyphen"/>miſſion
+<pb n="15" facs="tcp:98020:9"/>
+of ſins, the one doth comprehend or conclude the other:<note place="margin">Propter arctiſſi<g ref="char:EOLhyphen"/>mam <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, una alte<g ref="char:EOLhyphen"/>ram Complectitur <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; quamvis, juſtificatio <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> in peccatorum remiſſione Conſtituatur. <hi>Synop. Pur. Theol. p. 436.</hi> juſti<g ref="char:EOLhyphen"/>ficatio peccatoris, eſt remiſſio peccatorum, ſiguratè nimirum &amp; metoni<g ref="char:EOLhyphen"/>micè loquendo, quia remiſſio peccatorum eſt cauſa ſormalis juſtificatio<g ref="char:EOLhyphen"/>nis peccatoris, <hi>&amp;c. Syntag. Polan.</hi> p. <hi>445.</hi>
+               </note> as <hi>Rom.</hi> 4.22. and juſtifi<g ref="char:EOLhyphen"/>fication, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is oftentimes placed in the remiſſion of ſins: as <hi>Pſalm</hi> 32.1. <hi>Rom.</hi> 4.7.</p>
+            <p>We are juſtified by Chriſts obedience, both active and paſſive: but I confeſs chiefly by the latter: The Scripture in many places ſeems to lay the ſtreſs principally (or at leaſt ſynechdo<g ref="char:EOLhyphen"/>chically) upon the Blood, the Death, the Croſſe of Chriſt, <hi>Epheſ.</hi> 1.7. <hi>Heb.</hi> 9.12, 14. <hi>Rom.</hi> 5.10 <hi>Epheſ.</hi> 2.13. <hi>Col.</hi> 2.13, 14. <hi>Revel.</hi> 1.5, 6. <hi>Rom.</hi> 5.8, 9. <hi>Cum multis aliis,</hi> &amp;c.</p>
+            <p>Before I proceed to the fifth General pro<g ref="char:EOLhyphen"/>pounded to be ſpoken to, I think it not unne<g ref="char:EOLhyphen"/>ceſſary to enquire,<note place="margin">Forma dat eſſe.</note> what is the form of Chriſts ſatisfaction, which renders it ſatisfactory to God, and juſtificatory to man? I anſwer, The infinite merit of what he did and ſuffer<g ref="char:EOLhyphen"/>ed: which infinite Merit ſtands.</p>
+            <p n="1">1. In the dignity of his Perſon, the fulneſs of the God-head dwelt in him bodily, <hi>Col.</hi> 2.9, 14. Now for the work of a ſervant to be don by the Lord of all, renders his active; and for him to ſuffer as a Malefactor between Malefactors, who was <hi>God bleſſed for evermore,</hi> Renders his paſſive righteouſneſs infinitely meritorious;<note place="margin">Acts 20, 28. 1 Joh. 1.7.</note> No wonder the blood of Chriſt <hi>cleanſeth from all ſin,</hi> for it is <hi>the blood of God,</hi>
+               <pb n="16" facs="tcp:98020:10"/>
+by the figure, called by the Ancients <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Communication of properties: the blood of the Man Chriſt Jeſus, is called <hi>the blood of God.</hi> And this is the reaſon, why the righteouſneſs of one, redounds to all (the E<g ref="char:EOLhyphen"/>lect) for the juſtification of life, <hi>Rom.</hi> 5.18, 19. The doings and ſufferings of this Glo<g ref="char:EOLhyphen"/>rious Perſon <hi>the Lord our righteouſneſſe,</hi> (though for a few years) were infinitely <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> more va<g ref="char:EOLhyphen"/>lue, than all, that all the creatures in Heaven or Earth could have done or ſuffered to eter<g ref="char:EOLhyphen"/>nity;<note place="margin">Heb. 1.6.</note> the very Man <hi>Chriſt Jeſus</hi> is above all the Angels, for he is the Man Gods fellow, an high Word.<note place="margin">Zech. 13.7.</note> And this infinite worthineſs of the Redeemers Perſon ye have excellently deſcribed, as the irradiating and infinitely ex<g ref="char:EOLhyphen"/>alting all he did and ſuffered. Conſult theſe Texts, <hi>Heb.</hi> 1.1, 2, 3. <hi>Phil.</hi> 2.6, 7, 8, 9, 10.</p>
+            <p n="2">2. The righteouſneſs of Jeſus Chriſt is of infinite merit, and a meer ſupererogation of an infinitely Glorious Perſon.</p>
+            <p n="1">1. His active Righteouſneſs ſtood in his o<g ref="char:EOLhyphen"/>bedience to the Ceremonial and Moral Law.</p>
+            <p n="1">1. His obedience to the ceremonial Law, was a meer ſupererogation; What? for the ſubſtance to comply with the ſhadows? for the Anti-type to do homage to its own Types? beſides, he ſubmitted to thoſe Ordinances, the end and inſtitution whereof ſuppoſeth Guilt; what fore-skin of iniquity had he to be cut off by Circumciſion? what filth to be waſh't away in Baptiſm?<note place="margin">Luke 1.21.22. Luk. 3.21.</note> yet he was circum<g ref="char:EOLhyphen"/>ciſed and baptized, and his Mother offered for her purification.</p>
+            <p n="2">
+               <pb n="17" facs="tcp:98020:10"/>2. His obedience to the moral Laws, Al<g ref="char:EOLhyphen"/>though it muſt be granted as man, it was his duty, yet it was not his duty to become man;<note place="margin">Gal. 4.4.</note> his incarnation was a work of ſupererogation, the Law did never command that the eternal Son of the living God ſhould take upon him the form of a Servant, keep the Law, ſuffer and die. This cond ſcention of his was whol<g ref="char:EOLhyphen"/>ly free and arbitrary; what but his own in<g ref="char:EOLhyphen"/>finite love could move the eternal Word to pitch his Tent in our Nature? What elſe could move the Lord of the World to be<g ref="char:EOLhyphen"/>come a ſervant? the Antient of Dayes to become a Childe? or the Son of God to be the Son of <hi>Mary?</hi>
+            </p>
+            <p>And as his Active, ſo alſo his paſſive righ<g ref="char:EOLhyphen"/>teouſneſſe was a meet ſupererogation. What had divine Juſtice to do with the holy Childe Jeſus? Had it not been for his own eternal compact with the Father: he was a ſinleſſe Perſon, the Lamb of God without ſpot; he ſuffered not for himſelf,<note place="margin">Dan. 9.26.</note> 
+               <hi>he that knew no ſin was made ſin for us,</hi> (i. e.) a ſacrifice for our ſins, <hi>that we might be made the righteouſneſs of God in him,</hi> 2 Cor. 5.21.</p>
+            <p n="3">3. The ſtamp of Gods Appointment high<g ref="char:EOLhyphen"/>ly dignifies (as to us) Chriſts righteouſneſs, and renders it acceptable to God, and meri<g ref="char:EOLhyphen"/>torious for our benefit. The Aſſignment and appointment of God the Father ſets a great value on it; <hi>God was in Christ reconciling the world unto himſelf,</hi> not imputing to men their treſpaſſes, a <hi>Cor.</hi> 5.19. the reconciliation, or juſtification of a ſinner, is as much the Fa<g ref="char:EOLhyphen"/>thers
+<pb n="18" facs="tcp:98020:11"/>
+as the Sons Act. Chriſt frequently de<g ref="char:EOLhyphen"/>clares in the Goſpel of <hi>John,</hi>
+               <note place="margin">John 6.</note> that he came into the world, to do the will of him that ſent him. Chriſt received his miſſion and Commiſſion from the Father for our juſtifi<g ref="char:EOLhyphen"/>cation. Mark that notable place, <hi>Heb.</hi> 10.6, 7, 9, 10. <hi>In burnt-offerings, and ſacrifices for ſin, thou haſt had no pleaſure (the Lord did not delight in the blood of Bulls,</hi> Goats or Calves, thoſe bruitiſh ſacrifices): <hi>verſ.</hi> 7. then, ſaid I, (the words of Chriſt) <hi>Lo I come, (in the Volume of the Book it is written of me)</hi> to doe <hi>Thy Will,</hi> O God. Mark that, <hi>ver.</hi> 9. Then, ſaid he, <hi>lo, I come to do thy will:</hi> (O God) <hi>He taketh away the firſt,</hi> the firſt ſort of ſacrifices, <hi>that he may eſtabliſh the ſecond, (viz.)</hi>—ſacri<g ref="char:EOLhyphen"/>fice of his Son, <hi>verſ.</hi> 10. by <hi>the which Will,</hi> we are ſanctified, <hi>(i. e.)</hi> ſaved, <hi>through the offering of the body of Jeſus Chriſt once for all.</hi>
+               <note place="margin">Dr. <hi>Owen,</hi> in his <hi>Death of Deaths:</hi> and Mr. <hi>Caryl,</hi> in his Le<g ref="char:EOLhyphen"/>ctures on <hi>Job.</hi>
+               </note> Some of our Great Divines judiciouſly judge, that much of the merit of Chriſts Paſſion doth ariſe from the eternal Compact, and aſſign<g ref="char:EOLhyphen"/>ment of the Father, (not excluding the o<g ref="char:EOLhyphen"/>ther conſiderations). Now we paſs on.</p>
+            <p n="5">5. To the fifth <hi>Query,</hi> and that is this, <hi>what are the ſeverall cauſes concurring to our juſtification?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I anſwer, The cauſes of our juſtifica<g ref="char:EOLhyphen"/>tion are theſe four chiefly:
+<list>
+                  <item>1. The Efficient.</item>
+                  <item>2. The Material.</item>
+                  <item>3. The Formal.</item>
+                  <item>4. The finall Cauſe.</item>
+               </list>
+            </p>
+            <p n="1">1. The Efficient cauſe, and that is two-fold, either principal, or inſtrumental.</p>
+            <p n="1">
+               <pb n="19" facs="tcp:98020:11"/>1. The principal. God, the whole Trini<g ref="char:EOLhyphen"/>ty, Father, Son, and Spirit. Juſtification be<g ref="char:EOLhyphen"/>ing an outward action, <hi>ad extra,</hi> reſpecting the creatures, is the common Act of the whole Trinity. God, (the whole Trinity) doth ju<g ref="char:EOLhyphen"/>ſtifie as Law-giver, and Judge, <hi>Jam.</hi> 4.12. There is one Law-giver able to ſave, and to deſtroy, he is the Judge of all the Earth; by ſin we became Gods Debtors, and owed him many thouſand Talents, Chriſt our Surety payes our Debts, and God diſchargeth us; by ſin we were enemies and ungodly, Chriſt our Mediatour reconciles us enemies,<note place="margin">In ſumma, nemo ad fidei juſti<g ref="char:EOLhyphen"/>tiam per<g ref="char:EOLhyphen"/>veniet, niſi qui in ſe erit impi<g ref="char:EOLhyphen"/>us. <hi>Calv. in Rom. 4.5.</hi>
+               </note> and ju<g ref="char:EOLhyphen"/>ſtifies us, by Nature ungodly, yea, God in Chriſt reconciles us to himſelf, not imputing to us our treſpaſſes, a <hi>Cor.</hi> 5.19. And this is both a gracious, and a righteous Act of God;</p>
+            <p n="1">1. A gracious act, <hi>Rom.</hi> 3.25. we are ju<g ref="char:EOLhyphen"/>ſtified truely by his Grace, 2 <hi>Tim.</hi> 1.9. <hi>Epheſ.</hi> 2.5. we are ſaved by Grace.</p>
+            <p n="2">2. A righteous act of God: hereby he emi<g ref="char:EOLhyphen"/>nently declares his Righteouſneſs, <hi>Rom.</hi> 3.26. the Apoſtle brings it in with an ingeminati<g ref="char:EOLhyphen"/>on, <hi>to declare, I ſay, his righteouſneſſe, that he might be juſt, and the juſtifier of him that believeth in Jeſus;</hi> the righteouſneſs of Chriſt making plenary, yea redundant, and ſupera<g ref="char:EOLhyphen"/>bundant ſatisfaction to offended juſtice; his juſtice being ſatisfied, yea, honoured with Chriſts righteouſneſs. Now, he is not only merciful, but alſo <hi>faithful and juſt to forgive us our ſins,</hi> 1 <hi>John</hi> 1.7. Now there is a bleſſed Harmony between the divine Attributes: righteouſneſs and mercy do ſweetly embrace
+<pb n="20" facs="tcp:98020:12"/>
+and kiſs each other, the Glory of both ſhine forth moſt illuſtriouſly in, and by the bloody paſſion of the Son of God.</p>
+            <p>Now the Acts of God, the principal Effi<g ref="char:EOLhyphen"/>cient cauſe are to be diſtinguiſhed according to the diſtinction of the three perſons.</p>
+            <p n="1">1. The Father juſtifies, as the primary Cauſe and Authour: he gave his only be<g ref="char:EOLhyphen"/>gotten Son for our juſtification and ſalvati<g ref="char:EOLhyphen"/>on, <hi>John</hi> 3.16.</p>
+            <p n="2">2. The Father juſtifies as Legiſlatour, en<g ref="char:EOLhyphen"/>acting by his Soveraign Authority, that ſweet Law of the New Covenant, by vertue where<g ref="char:EOLhyphen"/>of, every believing ſinner is juſtified from the guilt of ſin, from which he could not be juſti<g ref="char:EOLhyphen"/>fied by the Law of <hi>Moſes.</hi>
+               <note place="margin">Acts 13.38.39.</note> This Law of ju<g ref="char:EOLhyphen"/>ſtification by Faith is Gods own act and Deed, the great <hi>Inſtrumentum pacis</hi> betwen God and man: the Tenour of the Goſpel (our <hi>Magna Charta) runs,</hi> that he that believeth ſhall be ſaved.</p>
+            <p n="3">3. The Father juſtifies as a Judge, in ab<g ref="char:EOLhyphen"/>ſolving thoſe that believe, and in pronouncing them juſt in Chriſt, and that in three reſpects:</p>
+            <p n="1">
+               <note place="margin">1 God ju<g ref="char:EOLhyphen"/>ſtifies up<g ref="char:EOLhyphen"/>on belie<g ref="char:EOLhyphen"/>ving actu<g ref="char:EOLhyphen"/>ally.</note>1. God juſtifies a believing ſinner upon his believing actually: by Faith we are thus ju<g ref="char:EOLhyphen"/>ſtified, <hi>Rom.</hi> 5.1. <hi>Gal.</hi> 3.8. By believing he hath a Title good in Law, an indefeſible right to all the promiſes of the Covenant, God then owns, and approves of him as a perſon juſtified.</p>
+            <p n="2">
+               <note place="margin">2. Parti<g ref="char:EOLhyphen"/>cularly at Death. Heb. 12.23.</note>2. At the moment of diſſolution God ju<g ref="char:EOLhyphen"/>ſtifies a Believer particularly. (as the <hi>Judge of all,</hi> and the <hi>Judge of all the Earth</hi>); paſſing a
+<pb n="21" facs="tcp:98020:12"/>
+particular private Sentence of everlaſting life upon every believing Soul.</p>
+            <p n="3">3. Eminently at the Day of Judgment,<note place="margin">3. Emi<g ref="char:EOLhyphen"/>nently at the day of judgment. God juſti<g ref="char:EOLhyphen"/>fies at the laſt day, by the man Chriſt Je<g ref="char:EOLhyphen"/>ſus. Act. 17.31.</note> when the Antient of Dayes ſhall take the Throne, when the Son of Man appearing in power and great Glory, ſhall in open Court before all the world by publick Sentence, for ever acquit and diſcharge Believers at that ſo<g ref="char:EOLhyphen"/>lemn and Great Day.</p>
+            <p>Thus the Father juſtifies.</p>
+            <p n="2">2. Jeſus Chriſt the Son juſtifies, as the Me<g ref="char:EOLhyphen"/>diatour and meritorious Cauſe of our juſtifi<g ref="char:EOLhyphen"/>cation, and that in two reſpects:</p>
+            <p n="1">1. As our Surety he paid our Debt,<note place="margin">Chriſt is both: <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, and: <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, a Surety and a Media<g ref="char:EOLhyphen"/>tour. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>re<g ref="char:EOLhyphen"/>demptionis precium.</hi>
+               </note> and as our Redeemer he laid down the price of our Redemption, <hi>Rom.</hi> 3.23. wee are juſtified freely by the Grace of God, and yet through the redemption that is in Chriſt. His blood was the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the price of our redemption, <hi>Epheſ.</hi> 1.7. in whom we have redemption through his blood, even the forgiveneſſe of ſins, according to the riches of his Grace; he is the Mediatour of reconciliation between God and Man.</p>
+            <p n="2">2. Chriſt juſtifies as our Advocate and In<g ref="char:EOLhyphen"/>terceſſor, preſenting our perſons, pleading our cauſe, prevailing with his Father by the ſpeak<g ref="char:EOLhyphen"/>ings of his blood, that the vertue of his me<g ref="char:EOLhyphen"/>rits may be applied to us, <hi>Rom.</hi> 8.34. <hi>It is God that juſtifies, who ſhall condemn?</hi> 'tis <hi>Chriſt that died, yea, rather that is riſen again, who alſo maketh interceſſion for us:</hi> there is <hi>a rather</hi> put upon the reſurrection, and aſcention of Chriſt, 1 <hi>John</hi> 2.2. we have an <hi>Advocate with the Fa<g ref="char:EOLhyphen"/>ther,
+<pb n="22" facs="tcp:98020:13"/>
+Jeſus Chriſt the righteous.</hi> Thus Chriſt juſtifies.</p>
+            <p n="3">3. The Spirit juſtifies as the Applicatory Cauſe, he doth reveal and apply to us the righteouſneſs of Chriſt for our juſtification.</p>
+            <p n="1">1. The Spirit, as the Spirit of Wiſdome and Revelation reveals, and diſcovers this Robe of Glory to us, this Garment of Salvation: Though the Father hath given the Son, and the Son hath given himſelf for our righteouſ<g ref="char:EOLhyphen"/>neſs, yet 'tis the Spirit that applyes this righ<g ref="char:EOLhyphen"/>teouſneſs: Revelation and Application is his peculiar Office.</p>
+            <p n="2">2. As the Spirit of Regeneration working in us the grace of Faith,<note place="margin">Directly.</note> which is one of the fruits of the Spirit,<note place="margin">Cauſa Cauſae eſt ociam, cau<g ref="char:EOLhyphen"/>ſae Cauſati.</note> whereby we receive and apprehend Chriſt the Lord our righteouſneſs, unto our juſtification in the Court of Heaven: the Spirit juſtifieth as he is the cauſe of the cauſe the Author of Faith that juſtifies.</p>
+            <p n="3">
+               <note place="margin">Reflec<g ref="char:EOLhyphen"/>tively.</note>3. As a Spirit of Adoption, by confirming our Faith, by working in us the aſſurance of our juſtification, by ſealing us up unto the day of Redemption, the Spirit it ſelf beareth wit<g ref="char:EOLhyphen"/>neſs with our ſpirits, that we are the children of God, <hi>Rom.</hi> 8.16, 17. Thus the righteouſ<g ref="char:EOLhyphen"/>neſs of God by the revelation of the Spirit is revealed from Faith to Faith, <hi>Rom.</hi> 1.17.</p>
+            <p>Thus much for the principal efficient cauſe.</p>
+            <p n="2">2. The inſtrumental or miniſtring cauſes are the Word of God, and Faith.</p>
+            <p n="1">
+               <note place="margin">
+                  <hi>The Goſ<g ref="char:EOLhyphen"/>pel is</hi> ma<g ref="char:EOLhyphen"/>nus Dei offerentis.</note>1. The miniſtry of the Word, is the in<g ref="char:EOLhyphen"/>ſtrumental cauſe on Gods part, <hi>faith cometh by hearing, and hearing by the Word, Rom.</hi> 10.17.
+<pb n="23" facs="tcp:98020:13"/>
+and in <hi>Gal.</hi> 3.2. the Goſpel is called the <hi>hear<g ref="char:EOLhyphen"/>ing of Faith.</hi> God in his Word by his Mini<g ref="char:EOLhyphen"/>ſters, doth as it were beſeech ſinners to be re<g ref="char:EOLhyphen"/>conciled to him, 2 <hi>Cor.</hi> 5.19, 20. The Word of God is the <hi>vehiculum ſpiritus,</hi> the Charriot of the Spirit, wherein he rides: the Word is the Wardrope,<note place="margin">Iſa. 61.10. Matth. 14.44.</note> wherein this glorious Robe of Righteouſneſs is laid up, 'tis the goodly Field wherein this heavenly treaſure is to be found.</p>
+            <p n="2">2. The ſecond inſtrumental cauſe is Faith:<note place="margin">
+                  <hi>Faith is</hi> manus ac<g ref="char:EOLhyphen"/>cipientis.</note> Faith is the hand of the Soul, whereby we re<g ref="char:EOLhyphen"/>ceive Chriſt, and apply his righteouſneſſe,<note n="*" place="margin">Non <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. 1. Primo, &amp; per ſe, ut quali<g ref="char:EOLhyphen"/>tas propriè aut motus, actio vel, vel paſſio, aut opus a<g ref="char:EOLhyphen"/>liquod bo<g ref="char:EOLhyphen"/>num, &amp; eximii pre<g ref="char:EOLhyphen"/>cii, quaſi ipſa ſit ju<g ref="char:EOLhyphen"/>ſtitia, aut ejus pars, aut etiam juſtitiae loco, ex cen<g ref="char:EOLhyphen"/>ſu, &amp; eſti<g ref="char:EOLhyphen"/>matione Dei, ſed <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, ſecundario, &amp; ſecundum aliud, nempe ut modus medium &amp; inſtrumentum ceu oculus &amp; manus qua Chriſti, ejuſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> participes reddimur, adeoque relativè ad objectum Ieſum ipſius justitiam, &amp; pro<g ref="char:EOLhyphen"/>miſſiones gratiae. <hi>Synop. Pur. Theol.</hi> p. <hi>442.</hi>
+               </note> 
+               <hi>John</hi> 1.12. Faith juſtifies, <hi>Rom.</hi> 5.1. But how doth faith juſtifie? Faith juſtifies, as one ex<g ref="char:EOLhyphen"/>preſſeth it <hi>vi legis latae,</hi> as it is our evangeli<g ref="char:EOLhyphen"/>cal righteouſneſs, or our keeping the Goſpel Law; Faith pretends to no merit, nor vertue of its own, but profeſſedly avows its depen<g ref="char:EOLhyphen"/>dance upon the merit of Chriſts ſatisfaction, as our legal righteouſneſs, on which it layeth hold; its excellency ariſeth from <hi>Gods Sanction,</hi> who made choyce of this act of Believing to the honour of <hi>Juſtification,</hi> becauſe it layes the creature low, and ſo highly exalteth Chriſt. The Act of believing is as the Silver: Gods Authority in the Goſpel-Sanction, is as the Kings Image ſtampt upon it; which gives it all its value as to juſtification, without this ſtamp, it could never have been currant. Faith doth not juſtifie as an habit, act, work, or qua<g ref="char:EOLhyphen"/>lity, (as the Papiſts ſay) but as an inſtrument
+<pb n="24" facs="tcp:98020:14"/>
+or hand to receive Chriſt and his righteouſ<g ref="char:EOLhyphen"/>neſs;<note n="*" place="margin">Undè fi<g ref="char:EOLhyphen"/>des impu<g ref="char:EOLhyphen"/>tatur ad juſtitiam, ut <hi>Paulus</hi> loquitur. <hi>Rom 4 5.</hi> Non qua<g ref="char:EOLhyphen"/>tenus eſt qualitas nobis in<g ref="char:EOLhyphen"/>haerens, nec quatenus eſt opus, multo mi<g ref="char:EOLhyphen"/>nùs quate<g ref="char:EOLhyphen"/>nus eſt me<g ref="char:EOLhyphen"/>ritum, ſed metonymiâ adjuncti correlati<g ref="char:EOLhyphen"/>vè intelle<g ref="char:EOLhyphen"/>ctâ per vocem fi<g ref="char:EOLhyphen"/>dei juſtitia Chriſti, quâm fides apprehen<g ref="char:EOLhyphen"/>dit, ut pa<g ref="char:EOLhyphen"/>tet ex eo<g ref="char:EOLhyphen"/>dem. <hi>cap. 4. v. 11, 13. And a<g ref="char:EOLhyphen"/>gain,</hi> nec quatenus eſt cultus Dei, &amp; radi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> omnium aliorum bonorum operum: ſed quatenus nos Chriſto conglutina: &amp; un<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m cum illo facti, partic pati<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne juſtitiae ejus f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uamur. <hi>Polan. p. 456</hi>
+               </note> Faith is an empty and a naked thing without its Object. Faith puts on this Robe of Glory, and wraps the Soul in it; but 'tis this glorious Robe, Chriſts righteouſneſs that juſtifies. 'Tis very certain, that the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>credere</hi> cannot, doth not juſtifie, as <hi>Socinus,</hi> and <hi>Ar<g ref="char:EOLhyphen"/>minius</hi> teach, it doth: 'Tis true, 't s ſaid, <hi>Rom.</hi> 4.5. <hi>Faith is imputed for righteouſneſſe,</hi> and is accepted of God through Chriſt for the per<g ref="char:EOLhyphen"/>formance of the whole Law: but this is to be underſtood metonimically, and relatively in reſpect of Chriſt the object of faith, who is the end and perfection of the Law to them that believe, by fulfilling the righteouſneſs of the Law for them. Faith invites a Soul to Chriſt, brings it into Union with his Perſon, and ſo into communion of his righteouſneſs.</p>
+            <p>And then for works: what ſhall we ſay of them? The Apoſtle is peremptory and abſo<g ref="char:EOLhyphen"/>lute in his Concluſion <hi>Rom.</hi> 3.28. Therefore we conclude, that a man is juſtified by faith without the deeds of the Law. So alſo, <hi>Gal.</hi> 2.16 <hi>Knowing that a man is not justified by the works of the Law, but by the faith of Jeſus Chriſt,</hi> &amp;c. that is, by the works which Chriſt hath done in our ſtead, by the obedience of Chriſt, which we apply to our ſelves by Faith alone: ſaith <hi>Polanus.</hi>
+            </p>
+            <note n="*" place="margin">
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſcripſerit <hi>Pau<g ref="char:EOLhyphen"/>lus</hi> pro <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſicut etiam accipitur. <hi>Matth. 12.4. 1 Cor 7.17. Beza in loc.</hi> ſed tantum per fidem Ieſu Chriſti: hoc eſt per opera quae Chriſtus loco noſtro fecit, per obedientiam Christi quam ſolâ fide noble applicamus. <hi>Polan</hi>
+            </note>
+            <p>
+               <pb n="25" facs="tcp:98020:14"/>Faith juſtifies a ſinner before God, and works juſtifie Faith, and demonſtrate to the world, and to our own conſciences that our faith is not dead and barren, but (<hi>Jam.</hi> 2.4.) Living, becauſe fruitful; faith as working, doth not juſtifie, but found juſtifying faith is a wor<g ref="char:EOLhyphen"/>king faith.</p>
+            <p n="2">2. VVe come to conſider the eſſential ma<g ref="char:EOLhyphen"/>terial cauſe of our juſtification, that very thing, which is our righteouſneſs, which God impu<g ref="char:EOLhyphen"/>teth to us, and accepteth on our behalf.</p>
+            <p>To this I anſwer. 1. Negatively,<note place="margin">1. Nega<g ref="char:EOLhyphen"/>tively.</note> what it is not.</p>
+            <p n="1">1. It cannot be our own righteouſneſs in<g ref="char:EOLhyphen"/>herent in us, becauſe inchoate and imperfect,<note place="margin">Juſtitiam, qua-coram Tribunali Dei Conſi<g ref="char:EOLhyphen"/>ſtimus, per<g ref="char:EOLhyphen"/>fectam omnibus numeris partibus, &amp; gradi<g ref="char:EOLhyphen"/>bus eſſe neceſſe eſt. Quid e<g ref="char:EOLhyphen"/>nim ex ſe agere poterat, ut ſemel amiſſam juſtitiam recuperaret, home ſervus peccati vinctus Diaboli? aſſignata est proinde aliena qui caruit ſuâ. <hi>Bernard.</hi>
+               </note> and the righteouſneſs of juſtification, muſt be moſt abſolute &amp; perfect, <hi>by the works of the Law ſhall no fleſh be juſtified,</hi> (1) no meer man, <hi>Rom.</hi> 3.20. We may therefore cry out with <hi>Ber<g ref="char:EOLhyphen"/>nard;</hi> what is man that is a ſervant of ſin, a Bondſlave of the Devil, able of himſelf to do, for the recovery of righteouſneſs once loſt? there is therefore the righteouſneſs of another aſſigned to him, who hath loſt his own.</p>
+            <p n="2">2. Nor ſecondly is it the righteouſneſs of Chriſt, meerly and ſolely (as man) conſidered: though that was pure and ſpotleſs, yet it was not in<g ref="char:EOLhyphen"/>finite, and meritorious; for Chriſt taking upon him an humane nature, was bound to keep the the Law, <hi>being made of a woman,</hi> he was alſo
+<pb n="26" facs="tcp:98020:15"/>
+made under the Law; under the Covenant of Works:<note place="margin">Gal. 4.3, 4.</note> the obedience of Chriſt meerly as man, had been no work of ſupererogation as to us, it would have ſerved to juſtify himſelf; but without the perſonal Union, there would have been no redundancy, or over-flowing of merit in it, to juſtify thoſe millions of guilty miſcreants,<note place="margin">Non prop<g ref="char:EOLhyphen"/>ter ſcip<g ref="char:EOLhyphen"/>ſum, ſed propter no<g ref="char:EOLhyphen"/>ſtram ſalu<g ref="char:EOLhyphen"/>tem, &amp; <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b demoli<g ref="char:EOLhyphen"/>tionem mortis, &amp; Condemnationem, Chriſtus Advenit. <hi>Athanaſ. O<g ref="char:EOLhyphen"/>rat.</hi> Tertia contra <hi>Arrian.</hi>
+               </note> who through the infinite grace of the Father by the blood of the Son are juſtified. Wherefore Chriſt came not for him<g ref="char:EOLhyphen"/>ſelf, but for our ſalvation, <hi>&amp;c.</hi> ſaith <hi>Atha<g ref="char:EOLhyphen"/>naſius.</hi>
+            </p>
+            <p n="2">
+               <note place="margin">Non eſt eſ<g ref="char:EOLhyphen"/>ſentialis juſtitia Dei, ut <hi>An<g ref="char:EOLhyphen"/>dreas Oſi<g ref="char:EOLhyphen"/>ander</hi> con<g ref="char:EOLhyphen"/>tendebat, cujus erro<g ref="char:EOLhyphen"/>rem refu<g ref="char:EOLhyphen"/>tavit. <hi>Cal<g ref="char:EOLhyphen"/>vin.</hi> Inſti<g ref="char:EOLhyphen"/>tut. tertio libro.</note>2. It is not the Eſſential Righteouſneſs of the God-head, not that righteouſneſs where<g ref="char:EOLhyphen"/>with God is righteous, 'tis not the righteouſ<g ref="char:EOLhyphen"/>neſs of Chriſt as God ſolely, though it is cal<g ref="char:EOLhyphen"/>led <hi>the righteouſneſs of God,</hi> 2 <hi>Cor.</hi> 5.21. <hi>Rom.</hi> 1.17. and ſo called, becauſe 'tis the righte<g ref="char:EOLhyphen"/>ouſneſs of him, who is truly God, as well as truly man, in one perſon: and 'tis the righte<g ref="char:EOLhyphen"/>ouſneſs which God appointeth, and accepteth for our juſtication. But it is not the Eſſen<g ref="char:EOLhyphen"/>tial uncreated righteouſneſs of God, which being the Eſſence of God, cannot be commu<g ref="char:EOLhyphen"/>nicated to any creature, much leſs can it be<g ref="char:EOLhyphen"/>come the accidental righteouſneſs of any crea<g ref="char:EOLhyphen"/>ture.</p>
+            <p n="2">
+               <note place="margin">2. Poſi<g ref="char:EOLhyphen"/>tively.</note>2. Poſitively, that which is our righte<g ref="char:EOLhyphen"/>ouſneſs for juſtification. It is the moſt Ade<g ref="char:EOLhyphen"/>quate and perfect obedience of Jeſus Chriſt the Mediatour God-man to the whole Law of
+<pb n="27" facs="tcp:98020:15"/>
+God. Conſiſting in a moſt exact conformity of his whole humane Nature with all its ac<g ref="char:EOLhyphen"/>tions and paſſions thereunto: whereby,<note place="margin">Juſtitia Ieſu Chri<g ref="char:EOLhyphen"/>ſti, per quam ju<g ref="char:EOLhyphen"/>ſtificamur coram Deo, est perfectiſſima totius legis divinae obedientia, conſistens in exactiſſimâ totius naturae Humanae Chriſti, omniumque Actionum, &amp; paſſionum ejus internarum, &amp; externarum conformitate, cum tota lege Dei, quam loco nostro perſectiſſime implevit, ut nobis a morte aeternâ liberationem, &amp; jus vitae aeternae acquireret. <hi>Syntag Polan.</hi> p. <hi>457.</hi>
+               </note> both actively, and paſſively he fulfill'd the Law moſt perfectly.</p>
+            <p>For proof you may pleaſe to read, <hi>Rom.</hi> 8.3, 4. <hi>Gal.</hi> 4.3, 4. <hi>Rom.</hi> 5.16, 17, 18, 19. <hi>For as by one mans diſobedience many were made ſinners, ſo by the obedience of one ſhall many be made righteous,</hi> verſ. 19. O Believers, this Garment of Sun-beams wrought out for ye by the Sun of righteouſneſs, muſt needs be glo<g ref="char:EOLhyphen"/>rious: if ye conſider,</p>
+            <p n="1">1. That Chriſts humane Nature was never ſtained neither with original, nor actual ſin: for by his divine Conception by the Holy Ghoſt, he received of his Virgin Mother, a pure un-deflowred, Virgin Nature, which all along he kept immaculate.</p>
+            <p n="2">2. The Humane nature in him is dignifi<g ref="char:EOLhyphen"/>ed with Union to the Divine, to the ſecond perſon in the Trinity, in which it doth ſub<g ref="char:EOLhyphen"/>ſiſt; as God deſcended to the loweſt to be<g ref="char:EOLhyphen"/>come man, ſo now man, <hi>(viz.)</hi> the humane Nature aſcendeth to the higheſt, to be perſo<g ref="char:EOLhyphen"/>nally one with God. 'Tis the righteouſneſs of Chriſt the Mediatour <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> God-man, in one perſon, though inherent in the Hu<g ref="char:EOLhyphen"/>mane
+<pb n="28" facs="tcp:98020:16"/>
+Nature, and performed by it. And this is that which, by communication of pro<g ref="char:EOLhyphen"/>perties, gives infinite value, vertue, and eter<g ref="char:EOLhyphen"/>nal efficacy to the obedience of Jeſus Chriſt; wherefore 'tis called <hi>the righteouſneſs of God.</hi> This I muſt profeſs to be the chief ſtay of my faith, and the principal foundation of my comfort, that <hi>He is Jehovah our righteouſneſs, Jer.</hi> 23.6. that he who is God bleſſed for e<g ref="char:EOLhyphen"/>ver,<note place="margin">Rom. 9.5.</note> is <hi>the root and off ſpring of David;</hi> that 'tis the <hi>Prince of Life that died, Acts</hi> 3.15. that the <hi>Lord of Glory was crucified,</hi> 1 Cor. 2.8. that, that blood, which is the price of my redemp<g ref="char:EOLhyphen"/>tion and juſtification is the blood of God; that he that was <hi>in the form of God,</hi>
+               <note place="margin">Acts 20.28.</note> 
+               <hi>and thought it no robbery to be equal with God</hi> did humble himſelf, and became obedient to the death of the Croſſe for me,<note place="margin">Phil. 2.6, 8 Gal. 2.20.</note> which whole humiliation of Jeſus Chriſt God-man, from his concepti<g ref="char:EOLhyphen"/>on to his crucifixion,<note place="margin">
+                  <hi>Some ſay, it conſiſts both in</hi> applicatio<g ref="char:EOLhyphen"/>ne &amp; pro<g ref="char:EOLhyphen"/>nunciatio<g ref="char:EOLhyphen"/>ne ipſius Dei. Juſtitia Dei est non peccare: juſtitia bo<g ref="char:EOLhyphen"/>minis, eſt non impu<g ref="char:EOLhyphen"/>tari pecca<g ref="char:EOLhyphen"/>tum. <hi>Bernard Serm 23. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Can<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>c.</hi>
+               </note> eſpecially his bloody paſſion, is the material cauſe of our juſtifi<g ref="char:EOLhyphen"/>cation.</p>
+            <p>Thus much for the eſſential material Cauſe of our juſtification.</p>
+            <p n="3">3. <hi>What is the formal Cauſe of our juſtification?</hi>
+            </p>
+            <p>I anſwer, 'Tis the imputation of Chriſts Righteouſneſs, becauſe by imputing and ap<g ref="char:EOLhyphen"/>plying it to us, he is pleaſed to juſtify us, <hi>Rom.</hi> 4.11. <hi>Pſalm</hi> 32.1. <hi>Rom.</hi> 4.8. 2 <hi>Cor.</hi> 5.19. <hi>Acts</hi> 10.43. <hi>Acts</hi> 13.28, 29. St. <hi>Ambroſe,</hi> Biſhop <hi>Downame</hi> and others do expreſs it by this ſimile; When <hi>Rebecca</hi> cloathed her ſon <hi>Jacob</hi> with the garments of her elder ſon <hi>E<g ref="char:EOLhyphen"/>ſau,</hi> the matter of the action, was the garment
+<pb n="29" facs="tcp:98020:16"/>
+of <hi>Eſau,</hi> which being applyed to him did co<g ref="char:EOLhyphen"/>ver him; but the form of the action was the applying it to him, the indution, or putting it upon him; ſo the matter of our juſtification is Chriſts righteouſneſs, the formal cauſe of our juſtification, is the Fathers imputing, or applying Chriſts righteouſneſs to us. The Apoſtle moſt clearly argues, by way of com<g ref="char:EOLhyphen"/>pariſon between <hi>Adam</hi> and Chriſt;<note place="margin">Rom. 5.17, 18, 19.</note> how could the diſobedience of <hi>Adam</hi> be made ours for condemnation? or the obedience of Chriſt be made ours for juſtification unto life? but only by imputation, ſeeing they are both tran<g ref="char:EOLhyphen"/>ſient Acts. A learned Philoſopher tells us,<note place="margin">Motus non eſt, niſi dum fit, poſtquam factus eſt. non eſt. <hi>Jul. Sca<g ref="char:EOLhyphen"/>liger.</hi>
+               </note> That a motion, whether action, or paſſion, hath no being, but while it is in doing, or ſuf<g ref="char:EOLhyphen"/>fering, but after it is done, it hath no being: the diſobedience of the one, and the obedi<g ref="char:EOLhyphen"/>ence of the other; the tranſgreſſion of <hi>A<g ref="char:EOLhyphen"/>dam</hi> and the righteouſneſs of Chriſt, can be no way conveyed to us, but by imputation: which term of <hi>imputation of Chriſts righteouſ<g ref="char:EOLhyphen"/>neſs,</hi> (notwithſtanding the Papiſts ſcoffing at it, and calling it <hi>putative righteouſneſs</hi>) is uſed ten times in <hi>Rom.</hi> 4.</p>
+            <p n="4">4. The End or final Cauſe for which God doth juſtifie a ſinner by imputation of Chriſts righteouſneſs, and that is either ſupream, or ſubordinate.<note place="margin">Utriuſque enim, &amp; miſericor<g ref="char:EOLhyphen"/>diae, &amp; juſtitiae admirabile hic tempe<g ref="char:EOLhyphen"/>ramentum relucet.</note>
+            </p>
+            <p n="1">1. The ſupream End, is the manifeſtation of the Glory, both of his juſtice and mercy, as both which concur in all his works: ſo chiefly in this great work of <hi>Juſtification; The Lord is righteous in all his works, and holy in all his wayes,</hi> Pſ. 145.17.</p>
+            <p n="1">
+               <pb n="30" facs="tcp:98020:17"/>1. That his Juſtice might be fully Glorifi<g ref="char:EOLhyphen"/>ed: God ſent and ſet forth his own Son to be a propitiation for our ſins, and hath puniſh<g ref="char:EOLhyphen"/>ed them in his humane Nature; <hi>I ſay</hi> (ſaith the Apoſtle) <hi>to declare his righteouſneſs,</hi>
+               <note place="margin">Rom. 3.25, 26.</note> 
+               <hi>that he might be juſt, and the juſtifier of him that bélieveth in Jeſus.</hi> 2. That his grace &amp; mercy alſo might eminently be magnified; he hath ſent his on<g ref="char:EOLhyphen"/>ly begotten Son into the World, that we might be juſtified freely by his Grace, through the redemption that is in Chriſt,<note place="margin">Deus Pater nos juſtifi<g ref="char:EOLhyphen"/>cat, ut judex qui<g ref="char:EOLhyphen"/>dem, ſed ſedens in Throno Gratiae, <hi>&amp;c. Synopſ.</hi>
+               </note> 
+               <hi>Rom.</hi> 3.25. and that we ſhould be to the praiſe of the glory of his Grace, wherein he hath made us accepted in the Beloved, <hi>Epheſ.</hi> 1, 6. Wherefore, not unto us, not unto us, not to any works of righ<g ref="char:EOLhyphen"/>teouſneſs that we have done, but to the Father of Mercies, the Lord God omnipotent, and to the Lamb that ſits upon the Throne, be all Honour, and Glory, Bleſſing and praiſe for evermore, <hi>Revel.</hi> 5.13. 2 <hi>Tim.</hi> 1.9.</p>
+            <p n="2">2. The ſubordinate end is our Salvation, <hi>Rom.</hi> 8.30. <hi>whom he hath juſtified, them alſo he Glorified, Tit.</hi> 3.7. <hi>That being juſtified by his Grace, we ſhould be made heirs of eternal life</hi> Though our ſalvation be our particular pro<g ref="char:EOLhyphen"/>per,<note place="margin">Our <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> ſupream end, or chief good, to which both juſtification, and ſanctification are referred; yet it is ſubordinate to Gods Glory, as to the Soveraign and univerſal End: for ſuch is the infinite goodneſs of God to believing ſinners, that he hath ſubordinated their ſalvation to his own Glory.</p>
+            <p>The precious properties of this Righteouſ<g ref="char:EOLhyphen"/>neſs; how it is a divine righteouſneſs, a temp<g ref="char:EOLhyphen"/>tation
+<pb n="31" facs="tcp:98020:17"/>
+vanquiſhing, and a World-overcoming righteouſneſs, a Law fulfilling, and a juſtice ſatisfying righteouſneſs, a moſt perfect righte<g ref="char:EOLhyphen"/>ouſneſs, a Glorious Robe of righteouſneſs, an everlaſting righteouſneſs, <hi>&amp;c.</hi> Ye have heard at large diſcuſſed from another Text, therefore I ſhall forbear to enlarge herein.</p>
+            <p>Laſtly, <hi>What are the bleſſed fruits and conſe<g ref="char:EOLhyphen"/>quences of Juſtification?</hi>
+            </p>
+            <p>I anſwer, 1. Sanctification inherent, with good works apparent, which <hi>non praecedunt ju<g ref="char:EOLhyphen"/>ſtificandum, ſed ſequuntur juſtificatum,</hi> as <hi>Auſtin</hi> ſpeaks; they do not go before, but follow after a ſtate of juſtification.</p>
+            <p n="2">2. Peace with God; that is an holy Tran<g ref="char:EOLhyphen"/>quility, and ſweet ſerenity of conſcience, <hi>Rom.</hi> 5.1.</p>
+            <p n="3">3. A free Acceſs to God, <hi>Rom.</hi> 5.2.</p>
+            <p n="4">4. Certain hope of Glory, <hi>Rom.</hi> 5.2, 5.</p>
+            <p n="5">5. Conſolation, yea Gloriation in, and over afflictions, <hi>Rom.</hi> 5.3.</p>
+            <p n="6">6. The ſhedding abroad the love of God in<g ref="char:EOLhyphen"/>to the hearts of the juſtified, <hi>Rom.</hi> 5.5.</p>
+            <p n="7">7. Conſervation from wrath to come, <hi>Ro.</hi> 5.9.</p>
+            <p n="8">8. Glorification and eternal life, <hi>Rom.</hi> 8.30. <hi>Rom.</hi> 5.21. <hi>that as ſin hath reigned unto death, e<g ref="char:EOLhyphen"/>ven ſo might Grace reign through righteouſneſs un<g ref="char:EOLhyphen"/>to eternal life by Jeſus Chriſt our Lord.</hi>
+            </p>
+            <p>A word or two at parting to the Juſtified, by way of Application.</p>
+            <list>
+               <item>1. Walk up to your Duty.</item>
+               <item>2. Live up to your Comfort.</item>
+            </list>
+            <p n="1">1. Walk up to your Duty: Ye that are the redeemed of the Lord, the children of God by
+<pb facs="tcp:98020:18"/>
+faith in Chriſt Jeſus, walk worthy of him who hath called you to his Kingdom and Glory; <hi>As ye have received Chriſt Jeſus the Lord, ſo walk ye in him,</hi> Col. 2.6. Receive not this Grace of God in vain: this is a certain evidence of your freedome from <hi>Condemnation,</hi> if ye <hi>walk not af<g ref="char:EOLhyphen"/>ter the fleſh,</hi> but <hi>after the ſpirit,</hi> Rom. 8.1. and herein is <hi>your father glorified,</hi> if ye <hi>bring forth much fruit,</hi> John 15.6. As your Receipts are great, ſo give me leave to tell you, your duty is, and your Accompt will be great alſo: ſo live, ſo act, ſo work, that ye may give up your accompt with joy.</p>
+            <p n="2">2. Live up to the Comfort of your ſtate; <hi>ye are already the ſons of God, and it doth not yet ap<g ref="char:EOLhyphen"/>pear, what ye ſhall be,</hi> 1 Joh. 3.1. who ſhall lay <hi>any thing to your charge?</hi> (whether men or Devils) <hi>'tis God that juſtifieth, it is Chriſt that died,</hi> &amp;c. <hi>Ro.</hi> 8.33. Behold thy Treaſures, thy Comforts, thy Joys, thy Portion, thy Priviledges, laid up for thee in that precious Cabinet, <hi>Rom.</hi> 5.1, 2, 3, 4, 5. Wherefore feed, nay feaſt thy Soul by faith upon them: wherefore, in the worſt of times; the <hi>righteous ſhall be glad in the Lord,</hi> and all the <hi>upright in heart</hi> ſhall glory, <hi>Pſalm</hi> 64.10.</p>
+            <p>Thus, ſo far as one Exerciſe would permit, I have endeavoured to give ſome ſatisfaction in the great Argument of <hi>Juſtification.</hi> Conſi<g ref="char:EOLhyphen"/>der what I have ſaid, and the Lord give ye un<g ref="char:EOLhyphen"/>derſtanding; 2 <hi>Tim.</hi> 2.7. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:98020:18"/>
+         </div>
+      </body>
+   </text>
+</TEI>
